@@ -1,4 +1,4 @@
 # vijay-demo
 This is my demo Git Repository.
 <br>
-Author - Vijju Tripathi
+Author - Vijju Tripathi(CSE AI)
